@@ -7,4 +7,40 @@
     <meta name="description" content="Esse é o meu primeiro Site">
     <meta name="keywords" content="Portifório">
     <meta name="author" content="Murilo Henrique">
-    <title>Meu primeiro site
+    <title>Meu primeiro site</title>
+</head>
+
+<p> Parágrafo
+<i> Itálico
+<h1> à <h6> Títulos do maior ao menor
+<strong> Negrito(Importância)
+<em> Ênfase
+<abbr> Abreviação
+<address> Informações de contato
+<bdo> Substituir a direção do texto atual
+<blockquote> Conteúdo de outra fonte
+<cite> Título da obra, livro, site
+<q> Citação
+<code> Exibir uma parte do código de programação
+<ins> Texto Inserido
+<del> Texto excluído do documento
+<dfn> Termo definido em uma frase
+<kbd> Entrada de Teclado
+<pre> Texto pré-formatado
+<samp> Amostra de saída de um programa de computador
+<var> Nome de variável usado em contexto matemático ou de programação
+<br> Quebra de Linha
+<div> Divisão
+<a> Link
+<base> URL base para todas as URLs relativas no documento
+<img> Imagem
+<area> Área de um mapa de imagem
+<map> Mapa de imagem
+<param> Parâmetro para um elemento <Object>
+<object> Incorporar um objeto
+<ul> Lista não ordenada
+<ol> Lista Ordenada
+<li> Lista
+<dl> Lista de descrição
+<dt> Termo na lista de descrição
+<dd> Definição/descrição de um termo na lista de descrição
